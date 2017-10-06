@@ -65,7 +65,7 @@ Detailed information related to source data collection can be found here:
 ## Running the Script
 
 * Place all files described in the Assumption section into a single directory
-* Ensure the directory above your R working directory
+* Ensure the directory above is your R working directory
 
 ### From the Command Line:
 
